@@ -46,17 +46,8 @@ To run this notebook yourself:
 
 ## 👨‍💻 Author
 
-**Ayman Uppal**  
+**Aman Uppal**  
 Undergraduate student passionate about finance, technology, and data-driven analysis.
 
 [GitHub – Ayman04-sketch](https://github.com/Ayman04-sketch)  
 [Google Colab Notebook](https://colab.research.google.com/drive/17P-STpPButtcrICZraxBUo-WvdVK94nh?usp=sharing)
-
----
-
-## 📄 Suggested CV Line
-
-> **Stock Price Analyzer**  
-> Created a Python script in Google Colab to analyze 5 years of stock price data using `yfinance`, `pandas`, and `matplotlib`, with moving averages for technical analysis. Hosted on GitHub and publicly accessible via Colab.  
-> 🔗 [GitHub Repo](https://github.com/Ayman04-sketch/stock-price-analyzer) | 📎 [Run on Colab](https://colab.research.google.com/drive/17P-STpPButtcrICZraxBUo-WvdVK94nh?usp=sharing)
-
