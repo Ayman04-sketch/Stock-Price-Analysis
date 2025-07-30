@@ -32,7 +32,7 @@ It was created to support learning and demonstration of data-driven analysis for
 To run this notebook yourself:
 
 1. Open the project in [Google Colab](https://colab.research.google.com/drive/17P-STpPButtcrICZraxBUo-WvdVK94nh?usp=sharing)
-2. Press the **Run** button or `Shift+Enter` on each cell
+2. Press the **Run** button or hover next to yfinance and press play or `Shift+Enter` on each cell
 3. Enter a valid stock ticker when prompted (e.g., `GOOG`, `NFLX`)
 
 ---
